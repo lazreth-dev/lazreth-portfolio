@@ -5,7 +5,6 @@ I'm learning programming and cybersecurity. This repo tracks my progress and pro
 
 ## Skills (growing...)
 - Python
-- JavaScript
 
 ## Projects 
 - Coming soon...
